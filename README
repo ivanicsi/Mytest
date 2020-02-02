@@ -5,3 +5,10 @@ git commit -m "sample first"
 git remote add origin https://github.com/ivanicsi/Mytest.git
 git push origin master
 
+#letölt
+git push origin master
+
+#Frissít
+it add sample.c
+git commit -m "sample first"
+git push origin master
