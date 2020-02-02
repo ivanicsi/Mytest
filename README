@@ -1,1 +1,7 @@
 This is a git repo
+
+git add sample.c
+git commit -m "sample first"
+git remote add origin https://github.com/ivanicsi/Mytest.git
+git push origin master
+
