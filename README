@@ -1,5 +1,16 @@
 This is a git repo
 
+
+sudo apt-get install git
+
+git config --global user.name "user_name"
+git config --global user.email "email_id"
+
+#------------------
+git init Mytest
+cd Mytest
+
+#------------------
 git add sample.c
 git commit -m "sample first"
 git remote add origin https://github.com/ivanicsi/Mytest.git
